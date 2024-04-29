@@ -16,14 +16,14 @@
         echo'
             <script>
                 alert("almacenado exitosamente ");
-                window.location = "../index.html";
+                window.location = "index.html";
             </script>
             ';
     }else{
         echo'
             <script>
                 alert("no se ah almacenado exitosamente ");
-                window.location = "../index.html";
+                window.location = "index.html";
             </script>
             ';
 
