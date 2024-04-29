@@ -1,7 +1,30 @@
 /* Estilos para el título h1 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
 h1 {
-    color: red; /* Cambia el color del texto a rojo */
+    color: black; /* Cambia el color del texto a rojo */
     text-align: center; /* Centra el texto */
     font-family: Arial, sans-serif; /* Cambia la fuente del texto */
     text-transform: uppercase; /* Convierte el texto a mayúsculas */
+
+
+}
+body{
+    background-image: url(../images/bg4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+main{
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
 }
