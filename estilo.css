@@ -1,0 +1,7 @@
+/* Estilos para el título h1 */
+h1 {
+    color: red; /* Cambia el color del texto a rojo */
+    text-align: center; /* Centra el texto */
+    font-family: Arial, sans-serif; /* Cambia la fuente del texto */
+    text-transform: uppercase; /* Convierte el texto a mayúsculas */
+}
