@@ -16,7 +16,7 @@
         echo'
             <script>
                 alert("almacenado exitosamente ");
-                window.location = ".index.html";
+                window.location = "index.html";
             </script>
             ';
     }else{
